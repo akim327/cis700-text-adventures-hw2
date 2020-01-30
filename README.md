@@ -4,7 +4,7 @@ Allison Kim
 David Li
 
 ## Part 2
-We mostly left the existing parser alone. We used the /most_similar/ function to get the command the player input was most similar to only when the input didn't match the existing "intents". For the /most_similar/ function, we attempted to use the Euclidean distance function to compare the input with the "known commands", and we returned the /known_command/ that the input was most similar to. In the parser, we realized that this function might not be perfect (whether it's due to poor implementation or errors of the Euclidean distance and context), so we decided to ask the user if the most similar command was what they meant.
+We mostly left the existing parser alone. We used the _most_similar_ function to get the command the player input was most similar to only when the input didn't match the existing "intents". For the _most_similar_ function, we attempted to use the Euclidean distance function to compare the input with the "known commands", and we returned the _known_command_ that the input was most similar to. In the parser, we realized that this function might not be perfect (whether it's due to poor implementation or errors of the Euclidean distance and context), so we decided to ask the user if the most similar command was what they meant.
 
 In general, we used the word vectors method and imported Magnitude.
 
@@ -18,4 +18,4 @@ Also, we thought it would be fun to incorporate the only other human with the se
 If it was neutral, he would just look at you weirdly. If it was positive, then he'd give you a voice recording that would help you win the game!
 ![](mattDamon_positive.png)
 
-Overall, we thought it would be fun to force the player to watch what they say in a sci-fi setting that /certainly/ is watching your every move, even if there is no other life.
+Overall, we thought it would be fun to force the player to watch what they say in a sci-fi setting that _certainly_ is watching your every move, even if there is no other life.
