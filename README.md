@@ -17,3 +17,5 @@ Also, we thought it would be fun to incorporate the only other human with the se
 
 If it was neutral, he would just look at you weirdly. If it was positive, then he'd give you a voice recording that would help you win the game!
 ![](mattDamon_positive.png)
+
+Overall, we thought it would be fun to force the player to watch what they say in a sci-fi setting that /certainly/ is watchign your every move, even if there is no other life.
