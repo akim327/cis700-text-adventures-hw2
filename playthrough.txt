@@ -1,3 +1,4 @@
+PRIMARY PATH:
 take plasma charge
 go south
 destroy wall with plasma charge
@@ -14,3 +15,22 @@ go south
 go east
 open lock with code
 go in
+
+ALTERNATIVE PATH:
+take plasma charge
+go south
+destroy wall with plasma charge
+go east
+kick engine
+go west
+go west
+talk to him
+>Say something nice
+go east
+go south
+uuse pwoercell on door
+go south
+take gun
+go east
+shoot computer
+use recording to call for help
