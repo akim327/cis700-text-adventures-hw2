@@ -13,7 +13,7 @@ We used sentiment analysis for our game! In the Python notebook given, it was th
 ![](shipAI.png)
 
 Also, we thought it would be fun to incorporate the only other human with the sentiment analysis: Matt Damon! So I (Allison) implemented a special function "talk to" to be able to type in something that can be directly spoken to Matt Damon. Again, if there was a certain negative sentiment, then he'd kill you for being a rude jerk. 
-![](mattDamon_positive.png)
+![](mattDamon_negative.png)
 
 If it was neutral, he would just look at you weirdly. If it was positive, then he'd give you a voice recording that would help you win the game!
-![](mattDamon_negative.png)
+![](mattDamon_positive.png)
