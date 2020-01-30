@@ -1,0 +1,16 @@
+take plasma charge
+go south
+destroy wall with plasma charge
+go east
+kick engine
+go west
+go south
+take booze
+go east
+give booze to patrons
+go west
+use powercell on door
+go south
+go east
+open lock with code
+go in
